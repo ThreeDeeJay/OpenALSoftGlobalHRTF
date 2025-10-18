@@ -1,0 +1,2 @@
+# OpenALSoftGlobalHRTF
+Adds OpenAL Soft HRTF files and configuration to enable 3D audio for headphones in all apps/games using OpenAL Soft, even if the library was compiled without the built-in HRTF.
