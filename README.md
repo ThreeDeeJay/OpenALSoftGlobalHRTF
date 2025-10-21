@@ -10,8 +10,8 @@ Adds OpenAL Soft HRTF files and configuration to enable 3D audio for headphones 
 ### Installation
 - Download module Zip file
 - (Optional) use your own/matching HRTF:
-  - Find an HRTF that sounds most positionally accurate to you using [this blind test](https://kutt.it/FindMyHRTF) or the [full database](https://kutt.it/FindOpenALSoftHRTF)
   - Extract the Zip file
+  - Find and download an MHR file that sounds most positionally accurate to you using [this blind test](https://kutt.it/FindMyHRTF) or the [MHR database](https://kutt.it/FindOpenALSoftHRTF)
   - Replace the HRTF in `/system/etc/xdg/openal/hrtf/HRTF.mhr` (you can use any filename but just keep the file you want to use).
   - Compress `module.prop` and `system` back into a Zip file.
 - Flash the module in Magisk and reboot.
