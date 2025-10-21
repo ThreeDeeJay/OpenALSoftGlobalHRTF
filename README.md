@@ -5,7 +5,7 @@ Adds OpenAL Soft HRTF files and configuration to enable 3D audio for headphones 
 
 ### Requirements
 - Android device rooted with [Magisk](https://topjohnwu.github.io/Magisk/install.html).
-- App/game using OpenAL Soft. If it uses generic OpenAL and your device is rooted, you can replace the library (usually named `libopenal.so` in the app's `data/app/RANDOMSTRING/PACKAGENAME/lib/...`) with the OpenAL Soft [armeabi-v7a (32-bit)](https://nightly.link/kcat/openal-soft/workflows/ci/master/soft_oal-Android_armeabi-v7a-Release.zip) or [arm64-v8a (64-bit)](https://nightly.link/kcat/openal-soft/workflows/ci/master/soft_oal-Android_arm64-v8a-Release.zip).
+- App/game using OpenAL Soft. If it uses generic OpenAL and your device is rooted, you can replace the library (usually named `libopenal.so` in the app's `data/app/RANDOMSTRING/PACKAGENAME/lib/...`) with OpenAL Soft [armeabi-v7a (32-bit)](https://nightly.link/kcat/openal-soft/workflows/ci/master/soft_oal-Android_armeabi-v7a-Release.zip) or [arm64-v8a (64-bit)](https://nightly.link/kcat/openal-soft/workflows/ci/master/soft_oal-Android_arm64-v8a-Release.zip).
 
 ### Installation
 - Download module Zip file
